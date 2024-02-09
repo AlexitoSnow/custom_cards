@@ -1,0 +1,20 @@
+name: custom_cards
+description: "A new Flutter package project."
+version: 0.0.1
+homepage: "https://alexitosnow.github.io"
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
